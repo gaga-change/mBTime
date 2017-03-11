@@ -8,9 +8,9 @@
 </template>
 
 <script>
-  import Head from "./son/home/Head.vue"
-  import ItemList from "./son/home/ItemList.vue"
-  import Menu from "./son/home/Menu.vue"
+  import Head from "./HomeHead.vue"
+  import ItemList from "./HomeItemList.vue"
+  import Menu from "./HomeMenu.vue"
   export default {
     components: {
       'vue-head': Head,
